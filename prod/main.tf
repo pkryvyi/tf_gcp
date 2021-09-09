@@ -20,7 +20,7 @@ module "compute_private_ip" {
 
   tags = ["test"]
 
-  email = "test-426@packer-210513.iam.gserviceaccount.com"
+  email = "@iam.gserviceaccount.com"
 
   #path = "../script/script.sh"
 }
